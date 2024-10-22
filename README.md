@@ -1,6 +1,6 @@
 # Password Generator System
 
-The Password Generator System is a web application that generates secure and random passwords based on user-defined criteria. It offers a simple and intuitive interface to customize password length and character types, ensuring users can create strong passwords to enhance their online security.
+The Password Generator System is a web application that generates secure and random passwords based on user-defined criteria. It offers a simple and intuitive interface to customize password length and character types, ensuring users can create strong passwords to enhance their online security..
 
 ## Features
 
